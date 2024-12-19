@@ -22,3 +22,5 @@ console.log(sum);
 
 const product = nums.reduce((accumulator, num) => accumulator * num, 1);
 console.log(product);
+
+// Cam learn more - OOP with JS, classes, constructor functions, factory functions etc
